@@ -1,6 +1,6 @@
 <h1 align="center">Hey 🙋‍♂️,nice to see you.</h1>
 <p >Welocome to my page! </p>
-<p>I'm Piyush, Fullstack developer from 🇮🇳 India</p>
+<p>I'm Piyush, Fullstack developer from India</p>
 
 
 
