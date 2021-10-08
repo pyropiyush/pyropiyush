@@ -1,5 +1,7 @@
-<h1 align="center">Hi 🙋🏼 , I'm Piyush</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h1 align="center">Hey 🙋‍♂️,nice to see you.</h1>
+<p >Welocome to my page! </p>
+<p>I'm Piyush, Fullstack developer from 🇮🇳 India</p>
+
 
 
 - 🔭 I’m currently working on **University Website**
