@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **University Website**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular and React**
 
 - 💬 Ask me about **Java,HTML,CSS,Angular**
 
